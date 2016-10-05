@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Hush kelibsiz!"
+date:   2016-10-06 08:31:27 +0900
+categories: jekyll update
+---
+
+Ushbu blogda imkon qadar har hafta o'zbek tilida bitta post yozaman.
+Postlar asosan meni qiziqishim va magistr yo'nalishim bo'lgan Machine Learning, Artificial Intelligence, Computer Vision va AKT haqida bo'ladi
+
+
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
